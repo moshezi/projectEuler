@@ -8,4 +8,3 @@
        return counter;
    };
      
-      console.log(solver());
