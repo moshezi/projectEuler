@@ -5,6 +5,5 @@
                counter += i;
            }
        }
-       return counter;
+            document.getElementById("answer").innerHTML = counter;
    };
-     
